@@ -98,15 +98,15 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/oodi-52">                 
-                <img alt="정다은" src="https://avatars.githubusercontent.com/oodi-52" width="80" />            
+            <a href="https://github.com/juijeong8324">                 
+                <img alt="전의정" src="https://avatars.githubusercontent.com/juijeong8324" width="80" />            
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">이하은</td>
         <td align="center">전선희</td>
-        <td align="center">정다은</td>
+        <td align="center">전의정</td>
     </tr>
 </table>
 

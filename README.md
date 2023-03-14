@@ -72,8 +72,8 @@
 
 ## 📢 스터디 규칙 
 
-- PR 보내는 시간: 매주 **수요일 오후 6시**까지 
-- 학습 내용 공유 및 발표 시간: 매주 **수요일 오후 9시** 
+- PR 보내는 시간: 매주 **화요일 오후 8시**까지 
+- 학습 내용 공유 및 발표 시간: 매주 **화요일 오후 10시** 
 - 벌금 5천원 (안 지키면 2배씩 벌금 늘어남...🤑) 
 
 ## 📌 PR 작성 규칙 
@@ -98,15 +98,15 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/oodi-52">                 
-                <img alt="정다은" src="https://avatars.githubusercontent.com/oodi-52" width="80" />            
+            <a href="https://github.com/juijeong8324">                 
+                <img alt="전의정" src="https://avatars.githubusercontent.com/juijeong8324" width="80" />            
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">이하은</td>
         <td align="center">전선희</td>
-        <td align="center">정다은</td>
+        <td align="center">전의정</td>
     </tr>
 </table>
 

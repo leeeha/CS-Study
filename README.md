@@ -68,12 +68,12 @@
 ## ✍ 스터디 목표 
 
 - CS 전공 지식 함양과 학습 내용에 대한 자유로운 질의응답 및 발표 능력 향상을 목표로 한다. 
-- **한 챕터당 2주씩 학습**하여 10주 안에 책 한권을 끝내는 걸 목표로 한다. (2023.03.08 ~ 2023.05.10) 
+- 디자인 패턴, 자료구조 -> 2주씩, 네트워크, 운영체제, 데이터베이스 -> 3주씩 
 
 ## 📢 스터디 규칙 
 
-- PR 보내는 시간: 매주 **수요일 오후 6시**까지 
-- 학습 내용 공유 및 발표 시간: 매주 **수요일 오후 9시** 
+- PR 보내는 시간: 매주 **화요일 오후 8시**까지 
+- 학습 내용 공유 및 발표 시간: 매주 **화요일 오후 10시** 
 - 벌금 5천원 (안 지키면 2배씩 벌금 늘어남...🤑) 
 
 ## 📌 PR 작성 규칙 
@@ -98,15 +98,15 @@
             </a>
         </td>
         <td align="center">
-            <a href="https://github.com/oodi-52">                 
-                <img alt="정다은" src="https://avatars.githubusercontent.com/oodi-52" width="80" />            
+            <a href="https://github.com/juijeong8324">                 
+                <img alt="전의정" src="https://avatars.githubusercontent.com/juijeong8324" width="80" />            
             </a>
         </td>
     </tr>
     <tr>
         <td align="center">이하은</td>
         <td align="center">전선희</td>
-        <td align="center">정다은</td>
+        <td align="center">전의정</td>
     </tr>
 </table>
 
